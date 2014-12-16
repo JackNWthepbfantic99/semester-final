@@ -18,6 +18,7 @@ public class BeepFarmer extends Farmer {
 	 * 
 	 * Ex. reap(7, 4) should gather all beepers from an area 7 rows wide and 4 rows tall
 	 */
+    
 	public void reap(int width, int height) {
 		// TODO You implement this
 	}
