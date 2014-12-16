@@ -29,9 +29,7 @@ public class Horse extends Wanderer {
 	public void wander(int count, int timer) {
 		// TODO You implement this
       
-      
-      System.out.println("Enter how many steps the Horse should take: ");
-             
+      for(int count  
       
       System.out.println("Enter how many steps the Horse should take before it relieves itself: ");
       timer = scnr.nextInteger();

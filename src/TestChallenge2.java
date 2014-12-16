@@ -14,6 +14,18 @@ public class TestChallenge2 {
 
 		// TODO Create an instance of a Horse inside the pasture
       Horse Joe = new Horse();
+      system.println("How many steps should the horse take: ");
+      int count = x;
+      System.out.println("Enter how many steps the Horse should take before it relieves itself: ");
+      int time  = y,
+      
+      for(x = n; n<=0; x--){
+         for(y = k; k<=0; y--){
+         Joe.move();
+         }
+         Joe.putBeeper();
+      }
+      
 		// TODO Have the horse wander for 36 steps with a timer of 7
 		// TODO Have the horse explode()
 	}
